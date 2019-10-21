@@ -1,3 +1,3 @@
-Repo cloned from Linuxerver/docker-plex. https://github.com/linuxserver/docker-plex
+Repo cloned from Linuxserver/docker-plex. https://github.com/linuxserver/docker-plex
 
 I added a script (70-remove-relay) to /root/etc/cont-init.d/ to remove the plex relay binary.
